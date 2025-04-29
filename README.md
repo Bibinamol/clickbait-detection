@@ -1,4 +1,3 @@
-# clickbait-detection
 # Clickbait Detection with Machine Learning
 
 This project detects whether a given headline is clickbait or not, using Natural Language Processing and a stacked machine learning model. It includes a user-friendly Streamlit web app for real-time predictions.
